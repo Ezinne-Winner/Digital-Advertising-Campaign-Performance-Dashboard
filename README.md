@@ -6,7 +6,20 @@ This repository contains a *Power BI dashboard* designed to monitor, analyze, an
 
 It provides a comprehensive view of *ad engagement, conversions, spend efficiency, and channel/device performance*, helping optimize marketing strategies and maximize ROI.
 
----
+<img width="880" height="480" alt="executive summary" src="https://github.com/user-attachments/assets/7a2533ec-65f5-46d2-94f2-d7c507baf70a" />
+<br>
+<br>
+<img width="859" height="479" alt="ad and campain performance" src="https://github.com/user-attachments/assets/038b4694-9d69-49fd-b01e-e1cd66f20209" />
+<br>
+<br>
+<img width="812" height="484" alt="customer engagement" src="https://github.com/user-attachments/assets/63ccad87-239e-4a79-9289-6ca376a7c7d5" />
+<br>
+<br>
+<img width="860" height="462" alt="CHANNEL PERFORMANCE" src="https://github.com/user-attachments/assets/f5f7ff4a-bb00-44a5-ab51-35811e660ee4" />
+<br>
+<br>
+<img width="872" height="498" alt="MONTHLY PERFORMANCE" src="https://github.com/user-attachments/assets/3496b459-9754-4959-9d56-2a331f2f8ae3" />
+
 
 ## Key Features
 
