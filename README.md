@@ -97,3 +97,49 @@ The *Customer Engagement Dashboard* provides a detailed view of how audiences in
 - Use *city-level insights* to strengthen local targeting strategies.  
 - Align *creative decisions* with audience response trends.  
 - Enhance *ROI on engagement-driven activities* by focusing on high-impact areas.
+
+
+## 📅 Monthly Performance Dashboard
+
+The *Monthly Performance Dashboard* provides a time-based perspective on spend, clicks, and conversions. It helps marketing teams monitor campaign progress and optimize spending.
+
+### 🔑 Key Highlights
+- *Total Spend YTD vs. Conversions* – Compare cumulative ad spend against monthly conversion performance.  
+- *Monthly Clicks & Conversions* – Visualize how engagement evolves across the year.  
+- *ROAS by Channel & City* – Identify which cities (London, Birmingham, Manchester) and channels deliver the best return.  
+- *CPC, CTR, and Impressions* – Scatterplot analysis to evaluate cost-efficiency trends.  
+
+
+## 📡 Channel Performance Dashboard
+
+The *Channel Performance Dashboard* focuses on comparing how different platforms (Facebook, Instagram, Pinterest) contribute to advertising effectiveness.
+
+### 🔑 Key Highlights
+- *Spend by Channel* – Distribution of spend across Facebook, Instagram, and Pinterest.  
+- *Clicks & Conversions* – Direct comparison of user engagement vs. conversions per channel.  
+- *Total Spend & Conversions by City* – City-level breakdown for localized campaign success.  
+- *Return on Ad Spend (ROAS)* – Identify the most profitable channel for each campaign.
+
+## 💡 Strategic Advice
+
+1. *Boost Shareability for Virality*  
+   - Likes are very high, but shares are disproportionately low.  
+   - *Action:* Focus on content formats that encourage sharing (short-form videos, giveaways, referral campaigns).  
+
+2. *Channel Investment Strategy*  
+   - Instagram and Facebook are safe bets with volume, but Pinterest shows *higher ROAS per dollar*.  
+   - *Action:* Test increased investment in Pinterest to capture untapped ROI while maintaining strong presence on Instagram/Facebook.  
+
+3. *Geographic Optimization*  
+   - London delivers strong engagement, but Manchester shows *efficient spend-to-conversion performance*.  
+   - *Action:* Allocate incremental budget to Manchester for growth while maintaining London as a brand hub.  
+
+4. *Seasonal Campaign Planning*  
+   - Fall and Summer campaigns outperform Spring.  
+   - *Action:* Double down on creative formats used in Fall/Summer, and review why Spring underperformed (timing, message relevance, or budget allocation).  
+
+5.  *Conversion Efficiency Monitoring*  
+   - CPC/CTR efficiency has improved over time — showing optimization success.  
+   - *Action:* Keep refining targeting and bidding strategies, especially around *Q4 (October–December)* when conversions typically spike.  
+
+     In marketing and retail, *Q4 is especially important* because it includes major holiday seasons such as Black Friday, Cyber Monday, Christmas, and New Year sales, which usually drive **higher conversions, increased ad spend, and stronger ROI*.
